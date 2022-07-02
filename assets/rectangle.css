@@ -1,70 +1,84 @@
+@media(max-width:998px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    html{
+        font-size: 45%;
+    }
+}
+html{
+    font-size: 62.5%;
+}
+
 body {
     background-color: #222936;
 
 }
 .line{
     position: absolute;
-width: 8px;
-height: 0.25px;
-left: 63.25px;
-top: 355px;
+width: .8rem;
+height: 0.025rem;
+left: 6.325rem;
+top: 35.5rem;
 
 background: #E9E9E9;
-border: 4px solid #F2B84B;
+border: .4rem solid #F2B84B;
 transform: rotate(89.16deg);
 }
 .line2{
     
 position: absolute;
-width: 20px;
-height: 0.25px;
-left: 602.25px;
-top: 220px;
+width: 2.0rem;
+height: 0.025rem;
+left: 60.225rem;
+top: 22.0rem;
 
-border: 4px solid #F2B84B;
+border: .4rem solid #F2B84B;
 transform: rotate(89.16deg);
 }
 .line3{
     position: absolute;
-width: 470.01px;
-height: 0px;
-left: 577px;
-top: 132px;
+width: 47.001rem;
+height: .0rem;
+left: 57.7rem;
+top: 13.2rem;
 
-border: 1px solid #F2B84B;
+border: .1rem solid #F2B84B;
 transform: rotate(-0.37deg);
 }
 .line4{
     position: absolute;
-width: 470.01px;
-height: 0px;
-left: 551px;
-top: 145px;
+width: 47.001rem;
+height: .0rem;
+left: 55.1rem;
+top: 14.5rem;
 
-border: 2px solid #F2B84B;
+border: .2rem solid #F2B84B;
 transform: rotate(-0.37deg);
 }
 .rectangle {
     position: absolute;
-    width: 496px;
-    height: 906px;
-    left: 41px;
-    top: 41px;
+    width: 49.6rem;
+    height: 90.6rem;
+    left: 4.1rem;
+    top: 4.1rem;
     
     background: #666666;
     }
     #first{
         position: absolute;
-    width: 231px;
-    height: 30px;
-    left: 590px;
-    top: 1px;
+    width: 23.1rem;
+    height: 3.0rem;
+    left: 59.0rem;
+    top: .1rem;
     
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
-    font-size: 55px;
-    line-height: 30px;
+    font-weight: 70.0;
+    font-size: 5.5rem;
+    line-height: 3.0rem;
     /* identical to box height, or 55% */
     
     text-align: center;
@@ -75,16 +89,16 @@ transform: rotate(-0.37deg);
     #second{
         
     position: absolute;
-    width: 242px;
-    height: 30px;
-    left: 607px;
-    top: 75px;
+    width: 24.2rem;
+    height: 3.0rem;
+    left: 60.7rem;
+    top: 7.5rem;
     
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
+    font-weight: 40.0;
+    font-size: 2.0rem;
+    line-height: 3.0rem;
     /* identical to box height, or 150% */
     
     
@@ -92,16 +106,16 @@ transform: rotate(-0.37deg);
     }
     #third{
         position: absolute;
-width: 79px;
-height: 15px;
-left: 80px;
-top: 335px;
+width: 7.9rem;
+height: 1.5rem;
+left: 8.0rem;
+top: 33.5rem;
 
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 30px;
+font-weight: 70.0;
+font-size: 1.8rem;
+line-height: 3.0rem;
 /* or 167% */
 
 display: flex;
@@ -112,46 +126,43 @@ color: #E9E9E9;
     }
     img{
      position: absolute;
-    width: 244px;
-    height: 157px;
-    left: 159px;
-    top: 126px;
+    width: 24.4rem;
+    height: 15.7rem;
+    left: 15.9rem;
+    top: 12.6rem;
     border-radius: 70%;
     }
 
-
 #fourth{
     position: absolute;
-width: 478px;
-height: 275px;
-left: 63px;
-top: 391px;
+width: 47.8rem;
+height: 27.5rem;
+left: 6.3rem;
+top: 39.1rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 19px;
-line-height: 16px;
-margin-bottom:2.2em;
-
+font-size: 1.9rem;
+line-height: 1.6rem;
+margin-bottom:.22rem;
 
 /* or 107% */
-
 
 color: #E9E9E9;
 }
 #fifth{
     position: absolute;
-width: 119px;
-height: 30px;
-left: 655px;
-top: 185px;
+width: 11.9rem;
+height: 3.0rem;
+left: 65.5rem;
+top: 18.5rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
-font-size: 25px;
-line-height: 30px;
+font-size: 2.5rem;
+line-height: 3.0rem;
 /* identical to box height, or 120% */
 
 display: flex;
@@ -162,136 +173,133 @@ color: #E9E9E9;
 }
 #pic1{
     position: absolute;
-width: 40px;
-height: 40px;
-left: 595px;
-top: 255px;
+width: 4.0rem;
+height: 4.0rem;
+left: 59.5rem;
+top: 25.5rem;
 
 }
 #content1{
     position: absolute;
-width: 298px;
-height: 30px;
-left: 659px;
-top: 240px;
+width: 29.8rem;
+height: 3.0rem;
+left: 65.9rem;
+top: 24.0rem;
 
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 30px;
+font-weight: 50.0;
+font-size: 2.0rem;
+line-height: 3.0rem;
 /* identical to box height, or 150% */
-
 
 color: #E9E9E9;
 
 }
 #pic2{
     position: absolute;
-width: 40px;
-height: 40px;
-left: 595px;
-top: 320px;
+width: 4.0rem;
+height: 4.0rem;
+left: 59.5rem;
+top: 32.0rem;
 
 }
 #content2{
     position: absolute;
-width: 183px;
-height: 28px;
-left: 659px;
-top: 306px;
+width: 18.3rem;
+height: 2.8rem;
+left: 65.9rem;
+top: 30.6rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 20px;
-line-height: 30px;
+font-size: 2.0rem;
+line-height: 3.0rem;
 /* or 150% */
-
 
 color: #E9E9E9;
 }
 #pic3{
     position: absolute;
-width: 40px;
-height: 40px;
-left: 595px;
-top: 395px;
+width: 4.0rem;
+height: 4.0rem;
+left: 59.5rem;
+top: 39.5rem;
 }
 #content3{
     position: absolute;
-width: 183px;
-height: 28px;
-left: 660px;
-top: 370px;
+width: 18.3rem;
+height: 2.8rem;
+left: 66.0rem;
+top: 37.0rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 20px;
-line-height: 30px;
+font-size: 2.0rem;
+line-height: 3.0rem;
 /* or 150% */
-
 
 color: #E9E9E9;
 }
 #pic4{
     position: absolute;
-width: 40px;
-height: 40px;
-left: 595px;
-top: 488px;
+width: 4.0rem;
+height: 4.0rem;
+left: 59.5rem;
+top: 48.8rem;
 
 }
 #pic5{
     position: absolute;
-width: 40px;
-height: 40px;
-left: 678px;
-top: 488px;
+width: 4.0rem;
+height: 4.0rem;
+left: 67.8rem;
+top: 48.8rem;
 }
 #pic6{
     
 position: absolute;
-width: 40px;
-height: 40px;
-left: 761px;
-top: 488px;
+width: 4.0rem;
+height: 4.0rem;
+left: 76.1rem;
+top: 48.8rem;
 
 }
 .line5{
     
 position: absolute;
-width: 330px;
-height: 0px;
-left: 871px;
-top: 356px;
+width: 3.30rem;
+height: .0rem;
+left: 87.1rem;
+top: 35.6rem;
 
-border: 1px solid #6A6A6A;
+border: .1rem solid #6A6A6A;
 transform: rotate(-90deg);
 }
 #line6{
     position: absolute;
-    width: 20px;
-    height: 0.24px;
-    left: 1050.24px;
-    top: 210px;
+    width: 2.0rem;
+    height: .024rem;
+    left: 105.024rem;
+    top: 21.0rem;
     
-    border: 4px solid #F2B84B;
+    border: .4rem solid #F2B84B;
     transform: matrix(0.01, 1, -1, 0.02, 0, 0);
 }
 #sixth{
     position: absolute;
-width: 105px;
-height: 30px;
-left: 1090px;
-top: 175px;
+width: 10.5rem;
+height: 3.0rem;
+left: 109.0rem;
+top: 17.5rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
-font-size: 25px;
-line-height: 30px;
+font-size: 2.5rem;
+line-height: 3.0rem;
 
 display: flex;
 align-items: center;
@@ -301,16 +309,16 @@ color: #E9E9E9;
 }
 #seventh{
     position: absolute;
-width: 324px;
-height: 250px;
-left: 1080px;
-top: 227px;
+width: 32.4rem;
+height: 25.0rem;
+left: 108.0rem;
+top: 22.7rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 20px;
-line-height: 30px;
+font-size: 2.0rem;
+line-height: 3.0rem;
 /* or 150% */
 
 font-feature-settings: 'cpsp' on;
@@ -319,175 +327,173 @@ color: #E9E9E9;
 }
 .line6{
     position: absolute;
-width: 1050px;
-height: 0px;
-left: 496px;
-top: 553px;
+width: 105.0rem;
+height: .0rem;
+left: 49.6rem;
+top: 55.3rem;
 
-border: 1px solid #6A6A6A;
+border: .1rem solid #6A6A6A;
 }
 #b1{
     position: absolute;
-width: 180px;
-height: 44px;
-left: 1080px;
-top: 486px;
+width: 18.0rem;
+height: 4.4rem;
+left: 108.0rem;
+top: 48.6rem;
 
 background:  #F2B84B;
 ;
-box-shadow: 2px 6px 20px 1px rgba(0, 0, 0, 0.16), inset 4px 4px 6px -6px rgba(255, 255, 255, 0.25);
-backdrop-filter: blur(3px);
+box-shadow: .2rem .6rem 2.0rem .1rem rgba(0, 0, 0, 0.16), inset .4rem .4rem .6rem -.6rem rgba(255, 255, 255, 0.25);
+backdrop-filter: blur(.3rem);
 /* Note: backdrop-filter has minimal browser support */
 
-border-radius: 8px;
+border-radius: .8rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 25px;
-line-height: 30px;
+font-size: 2.5rem;
+line-height: 3.0rem;
 /* identical to box height, or 120% */
-
 
 color: #010101;
 
 }
 #b2{
     position: absolute;
-width: 180px;
-height: 44px;
-left: 1288px;
-top: 486px;
+width: 18.0rem;
+height: 4.4rem;
+left: 128.8rem;
+top: 48.6rem;
 
 background:  #F2B84B;
 ;
-box-shadow: 2px 6px 20px 1px rgba(0, 0, 0, 0.16), inset 4px 4px 6px -6px rgba(255, 255, 255, 0.25);
-backdrop-filter: blur(3px);
+box-shadow: .2rem .6rem 2.0rem .1rem rgba(0, 0, 0, 0.16), inset .4rem .4rem .6rem -.6rem rgba(255, 255, 255, 0.25);
+backdrop-filter: blur(.3rem);
 /* Note: backdrop-filter has minimal browser support */
 
-border-radius: 8px;
+border-radius: .8rem;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 25px;
-line-height: 30px;
+font-size: 2.5rem;
+line-height: 3.0rem;
 }
 #b2:hover{ background-color:#f30d15;
     transition: 0.7s;}
 .line7{
     
 position: absolute;
-width: 20px;
-height: 0.25px;
-left: 612.54px;
-top: 580px;
+width: 2.0rem;
+height: .025rem;
+left: 61.254rem;
+top: 58.0rem;
 
-border: 4px solid #F2B84B;
+border: .4rem solid #F2B84B;
 transform: rotate(89.16deg);
 }
 #eight{
     
 position: absolute;
-width: 182px;
-height: 36px;
-left: 649px;
-top: 542px;
+width: 18.2rem;
+height: 3.6rem;
+left: 64.9rem;
+top: 54.2rem;
 
 font-family: 'Inter';
 font-style: normal;
 font-weight: 600;
-font-size: 24px;
-line-height: 29px;
+font-size: 2.4rem;
+line-height: 2.9rem;
 
 color: #FFFFFF;
-
 
 }
 #ninth{
     position: absolute;
-    width: 314px;
-    height: 30px;
-    left: 649px;
-    top: 572px;
+    width: 31.4rem;
+    height: 3.0rem;
+    left: 64.9rem;
+    top: 57.2rem;
     
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 2.0rem;
+    line-height: 3.0rem;
     /* identical to box height, or 150% */
     
     
     color: #6A6A6A;}
 
 #html{position: absolute;
-    width: 48px;
-    height: 48px;
-    left: 605px;
-    top: 666px;}
+    width: 4.8rem;
+    height: 4.8rem;
+    left: 60.5rem;
+    top: 66.6rem;}
 
 #python{
     position: absolute;
-width: 48px;
-height: 48px;
-left: 710px;
-top: 666px;
+width: 4.8rem;
+height: 4.8rem;
+left: 71.0rem;
+top: 66.6rem;
 }
 
 #css{
     position: absolute;
-width: 48px;
-height: 48px;
-left: 812px;
-top: 666px;
+width: 4.8rem;
+height: 4.8rem;
+left: 81.2rem;
+top: 66.6rem;
 }
 #sql{
     position: absolute;
-width: 48px;
-height: 48px;
-left: 605px;
-top: 757px;
+width: 4.8rem;
+height: 4.8rem;
+left: 60.5rem;
+top: 75.7rem;
 }
 #js{
     position: absolute;
-width: 40px;
-height: 48px;
-left: 718px;
-top: 757px;
+width: 4.0rem;
+height: 4.8rem;
+left: 71.8rem;
+top: 75.7rem;
 }
 #line7{
     position: absolute;
-width: 246px;
-height: 0px;
-left: 56px;
-top: 608px;
+width: 24.6rem;
+height: .0rem;
+left: 5.6rem;
+top: 60.8rem;
 
-border: 1px solid #E9E9E9;
+border: .1rem solid #E9E9E9;
 
 }
 #line8{
     
 position: absolute;
-width: 15px;
-height: 0.25px;
-left: 63.25px;
-top: 650px;
+width: 1.5rem;
+height: .025rem;
+left: 6.325rem;
+top: 65.0rem;
 
-border: 4px solid #F2B84B;
+border: .4rem solid #F2B84B;
 transform: rotate(89.16deg);
 
 }
 #ten{position: absolute;
-    width: 230px;
-    height: 32px;
-    left: 85px;
-    top: 620px;
+    width: 23.0rem;
+    height: 3.2rem;
+    left: 8.5rem;
+    top: 62.0rem;
     
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
-    line-height: 30px;
+    font-size: 1.8rem;
+    line-height: 3.0rem;
     /* or 167% */
     
     display: flex;
@@ -498,25 +504,25 @@ transform: rotate(89.16deg);
     }
     #eleven{
         position: absolute;
-width: 321px;
-height: 315px;
-left: 66px;
-top: 666px;
+width: 32.1rem;
+height: 31.5rem;
+left: 6.6rem;
+top: 66.6rem;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 44px;
+font-size: 1.6rem;
+line-height: 4.4rem;
 /* or 275% */
-
 
 color: #E9E9E9;
 
     }
     #fg{position: absolute;
-        width: 54px;
-        height: 54px;
-        left: 812px;
-        top: 751px;
+        width: 5.4rem;
+        height: 5.4rem;
+        left: 81.2rem;
+        top: 75.1rem;
         }
+
