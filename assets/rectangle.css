@@ -13,7 +13,7 @@ html{
 }
 
 body {
-    background-color: #3A3845;
+    background-color: #FDFAF6;
 
 }
 .line{
@@ -24,7 +24,7 @@ left: 6.325rem;
 top: 35.5rem;
 
 background: #E9E9E9;
-border: .4rem solid #F2B84B;
+border: .4rem solid #064420;
 transform: rotate(89.16deg);
 }
 .line2{
@@ -35,7 +35,7 @@ height: 0.025rem;
 left: 60.225rem;
 top: 22.0rem;
 
-border: .4rem solid #F7CCAC;
+border: .4rem solid #064420;
 transform: rotate(89.16deg);
 }
 .line3{
@@ -45,7 +45,7 @@ height: .0rem;
 left: 57.7rem;
 top: 13.2rem;
 
-border: .1rem solid #F2B84B;
+border: .2rem solid #064420;
 transform: rotate(-0.37deg);
 }
 .line4{
@@ -55,7 +55,7 @@ height: .0rem;
 left: 55.1rem;
 top: 14.5rem;
 
-border: .2rem solid #F2B84B;
+border: .2rem solid #064420;
 transform: rotate(-0.37deg);
 }
 .rectangle {
@@ -65,7 +65,7 @@ transform: rotate(-0.37deg);
     left: 4.1rem;
     top: 4.1rem;
     
-    background: #F7CCAC ;
+    background: #FAF1E6  ;
     }
     #first{
         position: absolute;
@@ -83,7 +83,7 @@ transform: rotate(-0.37deg);
     
     text-align: center;
     
-    color: #F7CCAC;
+    color: #064420;
     
     }
     #second{
@@ -102,7 +102,7 @@ transform: rotate(-0.37deg);
     /* identical to box height, or 150% */
     
     
-    color: #F7CCAC
+    color: #064420
     }
     #third{
         position: absolute;
@@ -122,7 +122,7 @@ display: flex;
 align-items: center;
 text-align: center;
 
-color: #826F66;
+color: #064420;
     }
     img{
      position: absolute;
@@ -149,7 +149,7 @@ margin-bottom:.22rem;
 
 /* or 107% */
 
-color: #826F66;
+color: #064420;
 }
 #fifth{
     position: absolute;
@@ -169,7 +169,7 @@ display: flex;
 align-items: center;
 text-align: center;
 
-color: #C69B7B;
+color: #064420;
 }
 #pic1{
     position: absolute;
@@ -193,7 +193,7 @@ font-size: 2.0rem;
 line-height: 3.0rem;
 /* identical to box height, or 150% */
 
-color: #C69B7B;
+color: #064420;
 
 }
 #pic2{
@@ -218,7 +218,7 @@ font-size: 2.0rem;
 line-height: 3.0rem;
 /* or 150% */
 
-color: #C69B7B;
+color: #064420;
 }
 #pic3{
     position: absolute;
@@ -241,7 +241,7 @@ font-size: 2.0rem;
 line-height: 3.0rem;
 /* or 150% */
 
-color: #C69B7B;
+color: #064420;
 }
 #pic4{
     position: absolute;
@@ -275,7 +275,7 @@ height: .0rem;
 left: 87.1rem;
 top: 35.6rem;
 
-border: .1rem solid #F7CCAC;
+border: .1rem solid #064420;
 transform: rotate(-90deg);
 }
 #line6{
@@ -285,7 +285,7 @@ transform: rotate(-90deg);
     left: 105.024rem;
     top: 21.0rem;
     
-    border: .4rem solid #F7CCAC;
+    border: .4rem solid #064420;
     transform: matrix(0.01, 1, -1, 0.02, 0, 0);
 }
 #sixth{
@@ -305,7 +305,7 @@ display: flex;
 align-items: center;
 text-align: center;
 
-color: #C69B7B;
+color: #064420;
 }
 #seventh{
     position: absolute;
@@ -323,16 +323,16 @@ line-height: 3.0rem;
 
 font-feature-settings: 'cpsp' on;
 
-color: #C69B7B;
+color: #064420;
 }
 .line6{
     position: absolute;
 width: 105.0rem;
 height: .0rem;
-left: 49.6rem;
+left: 53.6rem;
 top: 55.3rem;
 
-border: .1rem solid #F7CCAC;
+border: .1rem solid #064420;
 }
 #b1{
     position: absolute;
@@ -389,7 +389,7 @@ height: .025rem;
 left: 61.254rem;
 top: 58.0rem;
 
-border: .4rem solid #F2B84B;
+border: .4rem solid #064420;
 transform: rotate(89.16deg);
 }
 #eight{
@@ -406,7 +406,7 @@ font-weight: 600;
 font-size: 2.4rem;
 line-height: 2.9rem;
 
-color: #F7CCAC;
+color: #064420;
 
 }
 #ninth{
@@ -424,7 +424,7 @@ color: #F7CCAC;
     /* identical to box height, or 150% */
     
     
-    color: #F7CCAC;}
+    color: #064420;}
 
 #html{position: absolute;
     width: 4.8rem;
@@ -468,7 +468,7 @@ height: .0rem;
 left: 5.6rem;
 top: 60.8rem;
 
-border: .1rem solid #E9E9E9;
+border: .1rem solid #064420;
 
 }
 #line8{
@@ -479,7 +479,7 @@ height: .025rem;
 left: 6.325rem;
 top: 65.0rem;
 
-border: .4rem solid #F2B84B;
+border: .4rem solid #064420;
 transform: rotate(89.16deg);
 
 }
@@ -500,7 +500,7 @@ transform: rotate(89.16deg);
     align-items: center;
     text-align: center;
     
-    color: #826F66;
+    color: #064420;
     }
     #eleven{
         position: absolute;
@@ -516,7 +516,7 @@ font-size: 1.6rem;
 line-height: 4.4rem;
 /* or 275% */
 
-color: #826F66;
+color: #064420;
 
     }
     #fg{position: absolute;
