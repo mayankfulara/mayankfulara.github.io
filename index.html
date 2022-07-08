@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/rectangle.css">
+    
     <title>Mayank Fulara</title>
 </head>
 <Body id="bg" background="./assets/desert.jpg">   
@@ -73,6 +74,7 @@
     <p id="eleven">1.GPS logger for Ministry of forest<br>
         2.Google Project Managment<br>
         3.Played volleyball for college team</p>
+        <div class='cursor' id="cursor"></div>
       
         <script type="text/javascript" language="javascript">
 
@@ -86,6 +88,11 @@
                 {
                     this.style.backgroundColor = "#F2B84B";
                 }
+                var cursor = document.getElementById("cursor");
+document.body.addEventListener("mousemove", function(e) {
+  cursor.style.left = e.clientX + "px",
+    cursor.style.top = e.clientY + "px";
+});
             }
       
       
