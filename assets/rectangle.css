@@ -336,10 +336,10 @@ border: .1rem solid #064420;
 }
 #b1{
     position: absolute;
-width: 18.0rem;
-height: 4.4rem;
-left: 108.0rem;
-top: 48.6rem;
+    width: 18.0rem;
+    height: 4.4rem;
+    left: 34.3rem;
+    top: 80.4rem;
 
 background:  #F2B84B;
 ;
@@ -564,3 +564,28 @@ color: #064420;
         height: 200px;
         left: 72px;
         top: 85px;}
+
+    #b3{ position: absolute;
+        width: 18.0rem;
+        height: 4.4rem;
+        left: 108.0rem;
+        top: 48.6rem;
+        
+        background:  #F2B84B;
+        ;
+        box-shadow: .2rem .6rem 2.0rem .1rem rgba(0, 0, 0, 0.16), inset .4rem .4rem .6rem -.6rem rgba(255, 255, 255, 0.25);
+        backdrop-filter: blur(.3rem);
+        /* Note: backdrop-filter has minimal browser support */
+        
+        border-radius: .8rem;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 2.5rem;
+        line-height: 3.0rem;
+        /* identical to box height, or 120% */
+        
+        color: #010101;}
+        #b3:hover{ background-color:#f30d15;
+            transition: 0.7s;}
